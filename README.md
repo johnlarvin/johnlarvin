@@ -1,86 +1,76 @@
-# 🕶️ John Sebastain Larvin
+# John Sebastain Larvin
 
-### Security Researcher • Bug Hunter • Open-Source Tester
-
-I am **John Sebastain Larvin**.  
-I find bugs where systems assume nothing can go wrong.
-
----
-
-## 🧠 About Me
-
-I am a bug hunter and security researcher focused on **real, reproducible issues**.
-
-I don’t chase noise.  
-I don’t submit weak reports.  
-I work on bugs that **actually affect systems**.
-
-- 🐞 Reported and rewarded for multiple valid bugs  
-- 🛡️ Practice responsible disclosure  
-- 🧪 Linux kernel testing and edge-case validation  
-- 🧑‍⚖️ GitHub moderation and platform testing  
-- 🌍 Based in the **USA**
-
-This account is new.  
-The work is not.
+Cybersecurity Bug Hunter  
+Linux Kernel Tester  
+GitHub Moderator
 
 ---
 
-## ⚔️ What I Work On
+## Profile
 
-- Authentication & authorization issues  
-- Logic flaws and edge cases  
-- Date, time, and future-state bugs  
-- Platform permission issues  
-- Open-source and infrastructure testing  
+I am **John Sebastain Larvin**, a cybersecurity professional focused on vulnerability research, system testing, and responsible disclosure.
 
-If a system behaves differently tomorrow,  
-I test it **today**.
+My work centers on identifying practical security issues in real systems, with emphasis on correctness, reproducibility, and impact. I contribute to platform security, open-source testing, and moderation efforts within the developer ecosystem.
 
 ---
 
-## 🧩 Mindset
+## Areas of Work
 
-> Tools don’t find bugs.  
-> Thinking does.
-
-I believe in:
-- Clear proof over long explanations  
-- Impact over volume  
-- Quality over count  
-
-Every report should answer one question:
-**“Does this actually matter?”**
+- Security vulnerability research and bug hunting  
+- Responsible disclosure and security reporting  
+- Linux kernel testing and edge-case validation  
+- Platform moderation and policy enforcement  
+- Automation using shell scripts and custom scripts  
+- Security testing through automated and manual methods  
 
 ---
 
-## 📊 GitHub Activity
+## Technical Focus
+
+- Authorization and permission flaws  
+- Logic errors and edge-case behavior  
+- Date, time, and future-state system issues  
+- Platform and infrastructure security  
+- Open-source code review and testing  
+
+Automation is used where appropriate, but all findings are validated manually.
+
+---
+
+## Tooling and Automation
+
+- Shell scripting for testing and automation  
+- Custom scripts for security validation  
+- Reproducible test cases and minimal proofs  
+- Controlled environments for system testing  
+
+Automation supports analysis; it does not replace it.
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=johnlarvin&theme=dark&hide_border=true"
-    alt="GitHub Streak for johnlarvin"
-  />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=johnlarvin&theme=dark&hide_border=true" />
 </p>
 
-- ⭐ **166 followers**  
-- 🔁 **2K following**  
-- 📦 **1 public repository**  
-- 🗓️ Joined GitHub **2 weeks ago**
 
 ---
 
-## 🚀 Goal
+## Approach
 
-To help make software:
-- Safer  
-- More predictable  
-- Harder to break  
+Security work should be:
+- Accurate  
+- Verifiable  
+- Responsible  
 
-Quiet work.  
-Clear results.
+Every report should clearly answer:
+What is the issue?  
+Why does it matter?  
+How can it be reproduced?
 
 ---
 
-### 🕷️ “Every system has limits.  
-I test what happens when those limits are crossed.”
+## Location
+
+United States
