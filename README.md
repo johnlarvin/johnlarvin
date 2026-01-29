@@ -46,17 +46,6 @@ Automation is used where appropriate, but all findings are validated manually.
 
 Automation supports analysis; it does not replace it.
 
----
-
-## GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=johnlarvin&theme=dark&hide_border=true" />
-</p>
-
-
----
-
 ## Approach
 
 Security work should be:
